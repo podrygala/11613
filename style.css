@@ -1,0 +1,25 @@
+p {
+    height: 100px;
+    width: 100px;
+    background-color: #EB6896;
+}
+
+#one {
+    opacity: 0.5;
+}
+
+#two {
+    opacity: 0.7;
+}
+
+#three {
+    background-color: #836890;
+}
+
+#four {
+    background-color: #46698D;
+}
+
+#five {
+    background-color: #0F6A8B;
+}
